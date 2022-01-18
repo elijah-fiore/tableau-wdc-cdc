@@ -1,2 +1,2 @@
-# tableau-wdc-cdc
-custom web data connector for cdc data
+# Tableau Web Data Connector - CDC Data
+custom web data connector for cdc data - this is my first WDC
